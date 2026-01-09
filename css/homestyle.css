@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: lato, sans-serif;
     margin: 20px;
     background-color: #f9f9f9;
 }
@@ -14,7 +14,7 @@ li {
     font-size: 20px;
 }
 img {
-    width: 300px;
+    width: 350px;
     height: 200px;
     margin: 10px;
 }
